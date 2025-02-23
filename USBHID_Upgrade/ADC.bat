@@ -1,0 +1,1 @@
+hex2boot.exe -o EFM8UB1_HIDADC.bin -m ub1 "..\EFM8UB1_HIDADC\Keil 8051 v9.60.0 - Debug\EFM8UB1_HIDADC.hex"
