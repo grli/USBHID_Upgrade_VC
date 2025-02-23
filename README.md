@@ -1,7 +1,7 @@
 It send a command to make device reboot to booloader mode and then start an upgrade. There is a wait of 500ms after reboot command.
 To a clean chip, it also no problem because the first reboot command will be ignored by bootloader. To speed up the progress on new chips, the first command and wait ccan be removed.
 
-Anything need help, you can mail to gr_li@163.com, or guanrong.li@silabs.com if it reachable which means I'm still working in Silicon Labs. (^_^)
+Anything need help, you can mail to gr_li@163.com, or guanrong.li@silabs.com if it's reachable which means I'm still working in Silicon Labs. (^_^)
 
 Uploaded Date: 2025-02-23
 
